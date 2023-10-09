@@ -1,4 +1,5 @@
-参考路径：
+win环境使用，经测试可用。不要升级
+参考安装路径：
 C:\Program Files\Typora\resources
 
 1, 安装exe文件
