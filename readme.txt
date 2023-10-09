@@ -1,3 +1,5 @@
+Markdown For Typora开始收费了。这个编辑器的好处就是一堆的md方便查看。其实在vscode安装插件也可以使用。但是边写代码边查看一堆的MD文件不方便
+
 win环境使用，经测试可用。不要升级
 参考安装路径：
 C:\Program Files\Typora\resources
